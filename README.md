@@ -18,4 +18,5 @@ This repository contains subject-wise notes and PDFs for GPAT preparation. The s
   - PDFs for Pharmacognosy.
 - **Others**
   - Miscellaneous PDFs.
-  - 
+
+You can replace the placeholder PDFs in each folder with your actual files.
