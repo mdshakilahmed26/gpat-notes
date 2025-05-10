@@ -5,18 +5,16 @@ This repository contains subject-wise notes and PDFs for GPAT preparation. The s
 ## Folder Structure
 
 - **Pharmacology**
-  - Contains PDFs related to Pharmacology.
+  - working on it (it will appear soon)
 - **Pharmaceutics**
-  - **Pharmaceutical Technology**: PDFs for Pharmaceutical Technology.
-  - **Physical Pharmacy**: PDFs for Physical Pharmacy.
-  - **Other**: Miscellaneous Pharmaceutics-related PDFs.
+  - **Pharmaceutical Technology**: .
+  - **Physical Pharmacy**: working on it (it will appear soon)
+  - **Other**: working on it (it will appear soon)
 - **Chemistry**
-  - **Organic Chemistry**: PDFs for Organic Chemistry.
-  - **Inorganic Chemistry**: PDFs for Inorganic Chemistry.
-  - **Pharmaceutical Analysis**: PDFs for Pharmaceutical Analysis.
+  - **Organic Chemistry**: working on it (it will appear soon).
+  - **Inorganic Chemistry**: working on it (it will appear soon).
+  - **Pharmaceutical Analysis**: working on it (it will appear soon).
 - **Pharmacognosy**
-  - PDFs for Pharmacognosy.
+  - working on it (it will appear soon).
 - **Others**
-  - Miscellaneous PDFs.
-
-You can replace the placeholder PDFs in each folder with your actual files.
+  - working on it (it will appear soon)
